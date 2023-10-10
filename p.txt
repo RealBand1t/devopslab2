@@ -1,2 +1,3 @@
 hello this is after global config
 abcd, def fgi
+eded
