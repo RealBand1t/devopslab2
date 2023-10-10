@@ -2,3 +2,4 @@ hello this is after global config // local
 abcd, def fgi //git
 eded         //git
 this is types in local   //local
+this is after it did not commit //local 
