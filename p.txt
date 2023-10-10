@@ -1,3 +1,4 @@
-hello this is after global config
-abcd, def fgi
-eded
+hello this is after global config // local
+abcd, def fgi //git
+eded         //git
+this is types in local   //local
